@@ -1,3 +1,7 @@
 /index.php / 301
-/jackpot-raider-gb/* /jackpotraider-gb/:splat 301
-/united-kingdom-gb/* /jackpotraider-gb/:splat 301
+/jackpot-raider-uk-gb/* /jackpotraider-uk-gb/:splat 301
+/jackpotraider-casino-gb/* /jackpotraider-uk-gb/:splat 301
+/jackpot-raider-casino-gb/* /jackpotraider-uk-gb/:splat 301
+/jackpotraider-gb/* /jackpotraider-uk-gb/:splat 301
+/jackpot-raider-gb/* /jackpotraider-uk-gb/:splat 301
+/united-kingdom-gb/* /jackpotraider-uk-gb/:splat 301
